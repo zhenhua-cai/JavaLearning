@@ -1,0 +1,20 @@
+{
+  "id": "12",
+  "name": "Steven",
+  "age": "20",
+  "courses": [
+    "Math 101",
+    "Finance",
+    "Java"
+  ],
+  "major": {
+    "cs": {
+      "id": "1",
+      "description": "computer science"
+    },
+    "math": {
+      "id": "2",
+      "description": "Mathematics"
+    }
+  }
+}
